@@ -1,6 +1,6 @@
 ### NAME : Suji G
 ### REGISTER NO : 212222230152
-### DATE:
+### DATE:1.11.24
 <H3>EX. NO.7</H3><H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
 
 ## Aim: 
